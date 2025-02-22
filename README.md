@@ -97,8 +97,8 @@
 ---
 
 ### 🎬 系统演示：
-WEBPC管理端：http://zhny-user-font.nxptdn.com/<br>
-账号密码： demo/nongyedao.com<br>
+# WEBPC管理端：http://zhny-admin.huizhidata.com/<br>
+# 账号密码： ceshi/123456<br>
 
 
 
